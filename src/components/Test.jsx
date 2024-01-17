@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 
 const Test = () => {
-  const url = "https://testdevapi.kdev.co.in";
+  const url = "https://testdevapi.kdev.co.in/tap";
   //   const url = "http://localhost:8500";
   const doSomething = () => {
     console.log("ho");
